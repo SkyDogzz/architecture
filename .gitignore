@@ -1,7 +1,9 @@
-CMkakeCache.txt
+CMakeCache.txt
 
 _deps
 
 CMakeFiles
 
 cmake_install.cmake
+
+Makefile
