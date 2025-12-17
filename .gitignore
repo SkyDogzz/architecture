@@ -9,3 +9,11 @@ cmake_install.cmake
 Makefile
 
 *.a
+
+build
+
+compile_commands.json
+
+.cache
+
+sandbox
